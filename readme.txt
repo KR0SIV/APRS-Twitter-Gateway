@@ -1,10 +1,13 @@
 APRS to Twitter gateway
 
 A few years ago http://www.hamradiotweets.com/ was born.
-They eventually went offline, never said what happened or why they went down.
+The website and gateway went strong until the twitter api changed.
+The software was originally writen in python and the original developer did not have the time to fix the API issues.
 
-So I started it back up, the system works the same way theirs did.
-Their setup however is closed-source as far as I can tell. Mine however is not.
+The source was never released and that urged me to create my own version based around ruby and open source it.
+The original developer graciously allowed me to take over the original website and twitter handle to run the project.
+
+Check out the website and watch his defcon talk sometime on the project.
 
 Do what you will with it just be curtious and use your legal callsign.
 
