@@ -25,7 +25,3 @@ end
   aprs.connect
   aprs.packet("=4158.19N/08556.81W-", "Twitter Gateway YOUR MSG HERE")
 
-
-As a final note if I can keep it running, feel free to take a look at my setup.
-
-https://twitter.com/APRS_GW
