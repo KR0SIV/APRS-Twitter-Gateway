@@ -74,7 +74,7 @@ end
 end
 
   
-  aprs = Aprs.new("second.aprs.net", 20157, "your_callsign_here")
+  aprs = Aprs.new("rotate.aprs.net", 20157, "your_callsign_here")
   aprs.connect
   aprs.packet("=4158.19N/08556.81W-", "Twitter Gateway YOUR MSG HERE")
   aprs.msg_loop
