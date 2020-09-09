@@ -1,3 +1,9 @@
+*ARCHIVED*
+
+This version is depricated and will be replaced with a python variant with better message/error handling.
+
+
+
 APRS to Twitter gateway
 
 A few years ago http://www.hamradiotweets.com/ was born.
